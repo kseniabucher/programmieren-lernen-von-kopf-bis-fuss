@@ -11,3 +11,4 @@ cup1 = cup2 % 1
 cup3 = cup2
 cup2 = cup3 - cup3
 print(cup1, cup2, cup3)
+
